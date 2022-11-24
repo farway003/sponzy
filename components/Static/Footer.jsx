@@ -48,9 +48,9 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Bağlantılar</p>
                             <div>
-                                <Link href="Yakında">
+                                <Link href="Yakında">    
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Bota Oy Ver
+                                        <i className={`fa-solid fa-robot`} /> Bota Oy Ver 
                                     </a>
                                 </Link>
                             </div>
