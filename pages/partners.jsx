@@ -20,10 +20,10 @@ export default function Partners() {
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://i.ibb.co/Qjq2Swy/icons8-source-code-96.png" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Sponzy Club#Kod Paylaşım</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Sponzy Club</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                        Kodlarınızı Paylaşın, Projelerinizi Sonsuza Kadar Aktif Tutabilir misiniz? Discord Arayüzüne Sahip Dünyanın En Büyük Web Sitesi!
+                                      Kodlarınızı Paylaşın, Projelerinizi Sonsuza Kadar Aktif Tutabilir misiniz? Discord Arayüzüne Sahip Dünyanın En Büyük Web Sitesi!
                                     </p>
                                 </div>     
                             </div>
