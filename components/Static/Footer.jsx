@@ -56,7 +56,7 @@ export default function Footer() {
                             </div>
                             <div>
                                 <a href="https://discord.gg/fhQqq6x8Up" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-discord`} /> Destek Sunucusu
+                                 <i className={`fa-brands fa-discord`} /> Destek Sunucusu
                                 </a>
                             </div>
                             <div>
