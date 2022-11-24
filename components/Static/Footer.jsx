@@ -56,12 +56,12 @@ export default function Footer() {
                             </div>
                             <div>
                                 <a href="https://discord.gg/fhQqq6x8Up" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Destek Sunucusu
+                                    <i className={`fa-brands fa-discord`} /> Destek Sunucusu
                                 </a>
                             </div>
                             <div>
                                 <a href=" https://discord.com/api/oauth2/authorize?client_id=1045056119220998255&permissions=8&scope=bot%20applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Botu Davet Et
+                                   <i className={`fa-solid fa-robot`} /> Botu Davet Et
                                 </a>
                             </div>
                         </div>
