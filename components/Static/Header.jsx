@@ -67,7 +67,7 @@ const Header = ({ $, NavItems }) => {
         if (theme === "blue") setHue("hue-rotate-[180deg]");
         if (theme === "emerald") setHue("hue-rotate-[70deg]");
         if (theme === "rose") setHue("hue-rotate-[330deg]");
-        if (theme === "amber") setHue("");
+        if (theme === "amber") setHue("hue-rotate-[cf8a3c]");
     }, []);
     
     return (
