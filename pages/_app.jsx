@@ -33,7 +33,6 @@ export default function AwardApp({ Component, pageProps }) {
       href: "/commands",
     },
     {
-     <i class="fa-solid fa-robot"></i>
       link: true,
       name: "Destek",
       icon: "fab fa-discord",
