@@ -26,10 +26,12 @@ export default function AwardApp({ Component, pageProps }) {
       href: "/",
     },
     {
-    <li class="deneme nav-item">
-        <a class="nav-item nav-link active" href="/members"><i class="fas fa-user " aria-hidden="true"></i></i> Üyeler</a>
-      </li>
-    </ul>
+      link: true,
+      name: "Güncellemeler",
+      icon: "fa fa-home",
+      activeIcon: "fa fa-home",
+      href: "/",
+
     },
     {
       link: true,
