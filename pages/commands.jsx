@@ -1,6 +1,6 @@
 import { Menu, Transition } from "@headlessui/react";
 import Link from "next/link";
-
+<i class="fa-brands fa-discord"></i>
 export default function Commands() {
   const commands = [
     "/help",
