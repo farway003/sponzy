@@ -30,7 +30,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Güncellemeler",
       icon: "fa fa-home",
       activeIcon: "fa fa-home",
-      href: "/",
+      href: "/updates",
 
     },
     {
