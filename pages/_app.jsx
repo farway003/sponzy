@@ -27,14 +27,6 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Güncellemeler",
-      icon: "fa fa-home",
-      activeIcon: "fa fa-home",
-      href: "/updates",
-
-    },
-    {
-      link: true,
       name: "Komutlar",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
